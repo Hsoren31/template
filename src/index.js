@@ -1,2 +1,2 @@
-import _ from 'lodash';
-import './style.css';
+import html from "./index.html";
+import "./style.css";
